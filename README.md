@@ -2,4 +2,5 @@
 
 - Hoje sou junior em desenvolvimento front end
 - Estou atualmente estudando HTML, CSS, BDD Gherkin, Xpath, e qualidade de software, em breve pretendo voltar a estudar JavaScript
+- Aprendendo automação de testes utilizando Java
 - Me adicione no Linkedin: https://www.linkedin.com/in/barbaraluzg-santos/
